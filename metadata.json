@@ -1,0 +1,5 @@
+{
+  "name": "AI Multi-Angle Image Generator多視角圖片生成器",
+  "description": "Upload an image, remove the background, and generate six different perspective views (top-down, low-angle, front, back, left, right) of the main subject.",
+  "requestFramePermissions": []
+}
